@@ -1,0 +1,176 @@
+* {
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+header {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    height: 400px;
+    background-color: #800000;
+
+
+}
+.borda__externa {
+border-top: 15px dotted #DAA520;
+width: 100%;
+margin-bottom: 50px;
+}
+
+
+.navecacao {
+display: flex;
+justify-content: space-evenly ;
+font-size: 1.8em;
+width: 40%;
+font-weight: 600;
+padding-right: 40px;
+
+
+}
+
+.navecacao a {
+    color: #d48b70;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #d48b70;
+    margin: 50px 0px 0px 30px;
+}
+
+
+h2::before {
+    content: "";
+    border: 2px solid #d48b70;
+    margin-right: 10px;
+}
+
+.quem_somos p {
+    width: 80%;
+    font-size: 1.2em;
+    margin: auto;
+    color: #b15d4e;
+    line-height: 30px;
+    margin-top: 30px;
+
+}
+
+.quem__somos--imagem {
+ display: flex;
+ width: 80%;
+ align-items:flex-start;
+ justify-content: space-between;
+ margin: auto;
+ 
+}
+.primeira__imagem {
+    width: 30vw;
+
+}
+.segunda__imagem {
+    width: 40vw;
+}
+
+.quem_somos img {
+    border-radius: 30px;
+    margin: 50px auto;
+    border: 5px solid #800000;;
+
+}
+
+.grupos__kali-estrela {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5vw;
+    background-color: #800000;
+
+   
+}
+h3 {
+color: #DAA520 ;;
+font-weight: 600;
+font-size: 28px;
+}
+
+.grupos p {
+    color: #fff;
+    width: 80%;
+    font-size: 1.2em;
+    margin: 10px auto;
+    
+}
+
+
+.grupos__kali-estrela div {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 400px;
+    text-align: center;
+    border: 8px dotted #DAA520 ;
+    border-radius: 30px;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.titulo {
+    font-weight: 600;
+    text-decoration:2px underline ;
+}
+
+.contatos {
+    height: 300px;
+    display:flex;
+    flex-direction: column;
+   
+}
+
+.whatsapp {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding: 50px 30px 10px 30px;
+
+}
+.whatsapp img {
+    padding-right: 30px;
+
+}
+
+
+.instagram {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    
+}
+ .instagram a {
+    text-decoration: none;
+    color: black;
+
+ }
+
+.instagram img {
+    padding: 10px 30px;
+}
+
+
+
+footer {
+background-color: #800000;
+height: 100px;
+color: #b15d4e;
+text-align: center;
+padding-top: 40px;
+
+
+}
+

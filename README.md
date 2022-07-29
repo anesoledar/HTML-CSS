@@ -4,7 +4,7 @@
 
 
 
-- Alura-Flexbox-e-Grid         :point_right:    Projeto prático do curso "CSS: dispondo elementos com Flexbox e Grid" da plataforma Alura.
+- Alura-Flexbox-e-Grid         :point_right:    Projeto prático do curso "CSS: dispondo elementos com Flexbox e Grid" da plataforma Alura. EM COSTRUÇÃO.
 
 
 
